@@ -16,7 +16,7 @@ html {
    .container{
     width: 70vw;
     max-width: 850px;
-    background-color: floralwhite;
+    background-color:#394D73;
     margin: 40px auto;
    }
 
@@ -36,7 +36,7 @@ html {
   }
   
   header.primary{
-    background-color:#339e4a;
+    background-color:#8C472E;
     text-align:center;
     color:#ffffff;
     padding:40px;
@@ -83,7 +83,7 @@ html {
   }
   
   header.primary nav ul li a{
-  color:#fff;
+  color: #f28B0C;
   text-decoration:none;
   background-color:#000000;
   background-color: rgba(0,0,0,.4);
@@ -168,7 +168,7 @@ html {
   }
 
   article.post a{
-    color: #339e4a;
+    color: #f28B0C;
   }
 
 article.post a :hover{
