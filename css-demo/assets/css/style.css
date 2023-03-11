@@ -124,7 +124,7 @@ dd + dt{
   header.primary{
     background-color:#8C472E;
     text-align:center;
-    color:#ffffff;
+    color:#f2b807;
     padding:40px;
     /*long form*/
     padding-top: 40px;
@@ -250,7 +250,7 @@ dd + dt{
   }
 
   .post figure img{
-    border: 6px solid blue;
+    border: 6px solid #f2b807;
     padding: 3px;
     border-radius: 10px;
   }
