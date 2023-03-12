@@ -48,7 +48,7 @@ html {
   /*  --------------- Tables ------------------------  */
 
   table{
-    width: 200%;
+    width: 100%;
     border: 2px solid black;
     border-collapse:collapse;
   }
@@ -71,7 +71,7 @@ html {
 
   table th{
     background-color: #8C472E;
-    color: #d96b2b;
+    color: black;
     padding: 20px;
   }
   table td{
