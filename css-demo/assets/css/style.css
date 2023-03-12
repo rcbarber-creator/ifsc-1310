@@ -70,7 +70,7 @@ html {
 
 
   table th{
-    background-color: #394D73;
+    background-color: #8C472E;
     color: #d96b2b;
     padding: 20px;
   }
@@ -81,7 +81,7 @@ html {
     width: 25%;
   }
 
-  td:nth-child(2){
+  td:nth-child(4){
     text-align: right;
   }
 
@@ -216,7 +216,7 @@ dd + dt{
     justify-content: space-around;
     flex-direction: column;
     gap:30px;
-    border-bottom: 3px dotted #000000;
+    border-bottom: 3px dotted #f2b807;
     padding-bottom: 4.5rem;
   }
 
@@ -277,7 +277,7 @@ aside[role="complementary"]{
 }
 
 a[target="_blank"]{
-  color:gray;
+  color:black;
   padding:2.9rem;
 }
 
