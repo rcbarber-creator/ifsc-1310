@@ -117,7 +117,7 @@ dd + dt{
   /*  --------------- Global Styles -----------------  */
   
   body{
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Monsterrat', sans-serif;
       margin:0;
   }
   
@@ -209,6 +209,24 @@ dd + dt{
   #intro h2{
     color: #d96b2b;
     border-bottom: 2px dotted #c0c0c0;
+  }
+
+  #pratice blockquote{
+    border: 3px solid #d96b2b;
+    margin: 30px 50px;
+    padding: 40px;
+    border-radius: 10px 5px;
+    background-color: #8C472E;
+    color: #f28B0C;
+    line-height: 4.3;
+  }
+
+  #practice blockquote cite{
+    display:block;
+    font-size: .6rem;
+    font-weight: bold;
+    text-align: right;
+    margin-top: .5rem;
   }
 
   #content{
