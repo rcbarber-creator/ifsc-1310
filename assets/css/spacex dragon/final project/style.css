@@ -6,3 +6,10 @@ html {
   *:after {
     box-sizing: inherit;
   }
+
+  .container{
+    width: 70vw;
+    max-width: 850px;
+    background-color:#000308;
+    margin: 10px auto;
+  }
