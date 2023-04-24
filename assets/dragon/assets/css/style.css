@@ -1,0 +1,22 @@
+html{
+    box-sizing: content-box;
+}
+
+
+.container{
+    width:90vw ;
+    margin: 20px auto;
+    max-width: 700px;
+}
+
+
+body{
+ font-family: "Quicksand-light" sans-serif;
+ margin: 1;
+}
+
+header.primary{
+    background-color: darkslateblue;
+    text-align: center;
+    color: ghostwhite;
+}
