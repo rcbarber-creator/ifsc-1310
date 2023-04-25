@@ -22,7 +22,46 @@ header.primary{
 }
 
 
+header.primary h1{
+    font-size: 5.4rem;
+    margin: 40px;
+    position: fixed;
+    color: black;
+}
 
+header.primary h2{
+font-size: 5.4rem;
+margin: 40px;
+position: fixed;
+color:black
+
+
+}
+
+
+header.primary h3{
+font-size: 5.4rem;
+margin: 40px;
+position: fixed;
+color:black
+
+}
+
+header.primary h4{
+font-size: 5.4rem;
+margin: 40px;
+position: fixed;
+color: black;
+
+}
+
+header.primary h5{
+font-size: 5.4rem;
+margin:40px;
+position: fixed;
+color:black;
+
+}
 
 header.primary nav ul{
     position: relative;
@@ -31,4 +70,23 @@ header.primary nav ul{
     max-width: 700px;
     margin: 10px auto;
 }
+
+header.primary nav li{
+    list-style-type: none;
+    width: 40%;
+}
+
+header.primary nav a:link{
+    color: ghostwhite;
+    background-color: lightslategrey;
+    
+
+}
+
+header.primary nav a:visited{
+    color: purple;
+    
+}
+    
+
 
