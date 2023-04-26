@@ -11,7 +11,7 @@ html{
 
 
 body{
- font-family: "Quicksand Light Light";
+ font-family: monospace;
  margin: 1;
 }
 
@@ -25,6 +25,7 @@ header.primary{
 header.primary h1{
     background-color: darkslateblue;
     color: ghostwhite;
+    font-family: monospace;
     font-size: 5.4rem;
     margin: 15px 0;
     position: relative;
@@ -36,7 +37,7 @@ header.primary h1{
 header.primary h2{
 background-color: black;
 color: ghostwhite;
-font-family: "Quicksand Light Light";
+font-family: monospace;
 font-size: 4rem;
 margin:20px auto;
 }
@@ -45,7 +46,7 @@ margin:20px auto;
 header.primary h3{
 background-color: black;
 color: ghostwhite;
-font-family: "Quicksand Light Light";
+font-family: monospace;
 font-size: 4rem;
 
 }
@@ -53,7 +54,7 @@ font-size: 4rem;
 header.primary h1 a{
     background-color: darkslateblue;
     color: ghostwhite;
-    font-family: "Quicksand Light Light";
+    font-family: monospace;
     font-size: 4rem;
 }
 
@@ -61,7 +62,7 @@ header.primary h1 a{
 header.primary h1 b{
     background-color: darkslateblue;
     color: ghostwhite;
-    font-family: "Quicksand Light Light";
+    font-family: monospace;
     font-size: 4rem;
 }
 
