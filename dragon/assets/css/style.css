@@ -11,7 +11,7 @@ html{
 
 
 body{
- font-family: "Quicksand-light" sans-serif;
+ font-family: "Quicksand Light Light";
  margin: 1;
 }
 
@@ -23,45 +23,50 @@ header.primary{
 
 
 header.primary h1{
+    background-color: darkslateblue;
+    color: ghostwhite;
     font-size: 5.4rem;
-    margin: 40px;
-    position: fixed;
-    color: black;
+    margin: 15px 0;
+    position: relative;
 }
 
+
+
+
 header.primary h2{
-font-size: 5.4rem;
-margin: 40px;
-position: fixed;
-color:black
-
-
+background-color: black;
+color: ghostwhite;
+font-family: "Quicksand Light Light";
+font-size: 4rem;
+margin:20px auto;
 }
 
 
 header.primary h3{
-font-size: 5.4rem;
-margin: 40px;
-position: fixed;
-color:black
+background-color: black;
+color: ghostwhite;
+font-family: "Quicksand Light Light";
+font-size: 4rem;
 
 }
 
-header.primary h4{
-font-size: 5.4rem;
-margin: 40px;
-position: fixed;
-color: black;
-
+header.primary h1 a{
+    background-color: darkslateblue;
+    color: ghostwhite;
+    font-family: "Quicksand Light Light";
+    font-size: 4rem;
 }
 
-header.primary h5{
-font-size: 5.4rem;
-margin:40px;
-position: fixed;
-color:black;
 
+header.primary h1 b{
+    background-color: darkslateblue;
+    color: ghostwhite;
+    font-family: "Quicksand Light Light";
+    font-size: 4rem;
 }
+
+
+
 
 header.primary nav ul{
     position: relative;
