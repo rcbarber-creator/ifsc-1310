@@ -12,6 +12,7 @@ html{
 
 body{
  font-family: monospace;
+ background-color: darkslateblue;
  margin: 1;
 }
 
@@ -68,6 +69,9 @@ header.primary h1 b{
     font-family: monospace;
     font-size: 4rem;
 }
+
+
+
 
 
 
