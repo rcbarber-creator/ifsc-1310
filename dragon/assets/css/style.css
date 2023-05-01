@@ -48,7 +48,8 @@ header.primary h1{
 
 .img:left{
 float: left;
-
+margin: 10px 0px 10px 30px;
+border: 2px solid black;
 
 }
 
@@ -56,12 +57,13 @@ float: left;
 .img:right{
 
 float: right;
-
+margin: 10px 0px 10px 30px;
 }
 
 .img-center{
 
     float: center;
+    margin: 10px 0px 10px 30px
 }
 
 header.primary h2{
