@@ -18,9 +18,9 @@ html{
 
 body{
  font-family: monospace;
- background-color: darkslateblue;
+ background-color: black;
  color: ghostwhite;
- margin: 1;
+ margin: 3;
 }
 
 
@@ -43,7 +43,7 @@ header.primary{
 
 
 header.primary h1{
-    background-color: darkslateblue;
+    background-color: black;
     color: ghostwhite;
     font-family: monospace;
     font-size: 5.4rem;
