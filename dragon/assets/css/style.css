@@ -33,12 +33,19 @@ header.primary nav ul{
 }
 
 header.primary{
-    background-image: url(SpaceX.logo-e14688883720851.jpg);
+    
     font-family: monospace;
     font-size:5.4rem;
     margin: 15px 0;
     text-align: center;
     color: black;
+}
+
+
+header.primary::before{
+    background-image: url("https:://assets.SpaceX-logo-e1468883720851.jpg");
+    background-size: auto;
+    position: relative;
 }
 
 
