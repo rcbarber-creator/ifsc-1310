@@ -36,7 +36,7 @@ header.primary{
     font-size:5.4rem;
     margin: 15px 0;
     text-align: center;
-    color: black;
+    color:ghostwhite;
 }
 
 
@@ -48,7 +48,7 @@ header.primary::before{
 
 
 header.primary h1{
-    background-color: black;
+    background-color: darkslateblue;
     color: ghostwhite;
     font-family: monospace;
     font-size: 5.4rem;
