@@ -20,7 +20,7 @@ body{
 
 header.primary nav ul{
     display: inline;
-    position: relative;
+    position: center;
     justify-content: space-between;
     max-width: 700px;
     margin: 10px auto;
