@@ -2,6 +2,12 @@ html{
     box-sizing: content-box;
 }
 
+*::before,
+*::after {
+
+    box-sizing: inherit;
+}
+
 
 .container{
     width:90vw ;
