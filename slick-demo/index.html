@@ -16,10 +16,10 @@
 <body>
 <div class="fade container">
 
-  <div><img src="assets/img/sao paulo-new.jpg" alt="Sao Paulo"></div>
-  <div><img src="assets/img/shenghai-new.jpg" alt="Shenghai"></div>
-  <div><img src="assets/img/delhi-new.jpg" alt="Delhi"></div>
-  <div><img src="assets/img/tokyo-new.jpg" alt="Tokyo"</div>
+  <div><img src="assets/img/sao paulo-new.jpg" alt="Cities"></div>
+  <div><img src="assets/img/shenghai-new.jpg" alt="Cities"></div>
+  <div><img src="assets/img/delhi-new.jpg" alt="Cities"></div>
+  <div><img src="assets/img/tokyo-new.jpg" alt="Cities"</div>
 
 </div>
 <header>Four of the most populated cities in the world</header>
@@ -28,5 +28,17 @@
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.js"></script>
 <script src="assets/js/scripts.js"></script>
+
+<script type="text/javascript">
+
+$('.adaptive-height').slick({
+  dots: true,
+  infinite: true,
+  speed: 300,
+  slidesToShow: 1,
+  adaptiveHeight: true
+});
+
+</script>
 </body>
 </html>
