@@ -13,13 +13,14 @@ html{
     width:90vw ;
     margin: 10px auto;
     max-width: 700px;
+    background-color: ghostwhite;
 }
 
 
 body{
  font-family: monospace;
  margin: 3;
- color: darkslateblue;
+ 
 }
 
 
@@ -42,7 +43,7 @@ header.primary{
 
 
 header.primary::before{
-    background-image: url("https:://assets.SpaceX-logo-e1468883720851.jpg");
+    background-image: url("assets.SpaceX-logo-e1468883720851.jpg");
     background-size: auto;
     position: relative;
 }
@@ -135,7 +136,7 @@ header.primary nav li{
 
 header.primary nav a:link{
     color: ghostwhite;
-    background-color: lightslategrey;
+    background-color: darkslateblue;
     
 
 }
