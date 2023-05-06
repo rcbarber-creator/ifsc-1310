@@ -63,6 +63,7 @@ header.primary h1{
 
 .img:left{
 float: left;
+padding: 8px;
 margin: 10px 0px 10px 30px;
 border: 2px solid black;
 
