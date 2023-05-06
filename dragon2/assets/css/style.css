@@ -1,0 +1,151 @@
+html{
+    box-sizing: content-box;
+}
+
+*::before,
+*::after {
+
+    box-sizing: inherit;
+}
+
+
+.container{
+    width:90vw ;
+    margin: 10px auto;
+    max-width: 700px;
+    max-height: 700px;
+    background-color: darkslateblue;
+}
+
+
+body{
+ font-family: monospace;
+ margin: 3;
+ 
+}
+
+
+header.primary nav ul{
+    display: inline-block;
+    position: relative;
+    justify-content: space-between;
+    max-width: 700px;
+    margin: 10px auto;
+}
+
+header.primary{
+    
+    font-family: monospace;
+    font-size:5.4rem;
+    margin: 15px 0;
+    text-align: center;
+    background-color: black;
+}
+
+
+header.primary::before{
+    background-image: url("assets.SpaceX-logo-e1468883720851.jpg");
+    background-size: auto;
+    position: relative;
+}
+
+
+header.primary h1{
+    background-color: darkslateblue;
+    color: ghostwhite;
+    font-family: monospace;
+    font-size: 5.4rem;
+    margin: 15px 0;
+    position: relative;
+}
+
+
+.img:left{
+float: left;
+margin: 10px 0px 10px 30px;
+border: 2px solid black;
+
+}
+
+
+.img:right{
+
+float: right;
+margin: 10px 0px 10px 30px;
+}
+
+.img-center{
+
+    float: center;
+    margin: 10px 0px 10px 30px
+}
+
+header.primary h2{
+background-color: black;
+color: ghostwhite;
+font-family: monospace;
+font-size: 4rem;
+margin:20px auto;
+position: relative;
+}
+
+
+header.primary h3{
+background-color: black;
+color: ghostwhite;
+font-family: monospace;
+font-size: 4rem;
+position: relative;
+
+}
+
+header.primary h1 a{
+    background-color: darkslateblue;
+    color: ghostwhite;
+    font-family: monospace;
+    font-size: 4rem;
+    position: relative;
+}
+
+
+header.primary h1 b{
+    background-color: darkslateblue;
+    color: ghostwhite;
+    font-family: monospace;
+    font-size: 4rem;
+    position: relative;
+}
+
+
+
+
+
+
+
+header.primary nav ul{
+    position: relative;
+    display: inline-flex;
+    flex-direction: row;
+    max-width: 700px;
+    margin: 10px auto;
+}
+
+header.primary nav li{
+    list-style-type: none;
+    width: 40%;
+}
+
+header.primary nav a:link{
+    color: ghostwhite;
+    background-color: darkslateblue;
+    
+
+}
+
+header.primary nav a:visited{
+    color: purple;
+    
+}
+    
+
+
