@@ -12,9 +12,10 @@ html{
 .container{
     width:90vw ;
     margin: 10px auto;
-    max-width: 710px;
-    max-height: 710px;
+    max-width: 720px;
+    max-height: 720px;
     background-color: darkslateblue;
+    color: ghostwhite;
 }
 
 
