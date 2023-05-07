@@ -102,7 +102,7 @@ header.primary{
     float: left;
     margin: 10px 0px 10px 30px;
     border: 2px solid black;
-    width: 80px;
+    
     
     }
     
@@ -117,6 +117,10 @@ header.primary{
     
         float: center;
         margin: 10px 0px 10px 30px
+    }
+
+    img{
+        max-width: 80 px;
     }
     
     header.primary h2{
