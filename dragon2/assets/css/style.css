@@ -80,7 +80,7 @@ header.primary{
         font-family: monospace;
         font-size:5.4rem;
         margin: 15px 0;
-        text-align: center;
+        position: center;
         background-image: url("assets.SpaceX-logo-e1468883720851.jpg");
     }
     
