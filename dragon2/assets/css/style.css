@@ -102,9 +102,7 @@ header.primary{
     float: left;
     margin: 10px 0px 10px 30px;
     border: 2px solid black;
-    
-    
-    }
+    background-image: url(assets/img.dragoncrew.8k.jpg); }
     
     
     .img:right{
@@ -112,6 +110,8 @@ header.primary{
     display:flexbox;
     float: right;
     margin: 10px 0px 10px 30px;
+    border: 2px solid black;
+    background-image: url(assets/img/Dragon_V2_interior2.jpg)
     }
     
     .img-center{
@@ -119,7 +119,7 @@ header.primary{
         display: flexbox;
         float: center;
         margin: 10px 0px 10px 30px;
-        <image src:"assets.img" ;
+        background-image: url(assets/img/launch.jpg);
     }
 
     img{
@@ -146,7 +146,7 @@ header.primary{
     }
     
     header.h1 a{
-        background-image:  url(SpaceX-logo-e1468883720851.jpg)
+        background-image:  url(SpaceX-logo-e1468883720851.jpg);
         color: ghostwhite;
         font-family: monospace;
         font-size: 4rem;
