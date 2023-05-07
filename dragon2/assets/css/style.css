@@ -98,6 +98,7 @@ header.primary{
     
     
     .img:left{
+    display: inline;
     float: left;
     margin: 10px 0px 10px 30px;
     border: 2px solid black;
