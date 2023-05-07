@@ -126,7 +126,7 @@ header.primary{
         max-width: 80 px;
     }
     
-    header.primary h2{
+    .container{
     background-color: black;
     color: ghostwhite;
     font-family: monospace;
